@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modes">
+        <item>aes-128-xts</item>
+        <item>aes-256-xts</item>
+    </string-array>
+</resources>
